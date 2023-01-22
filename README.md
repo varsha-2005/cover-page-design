@@ -132,8 +132,7 @@ The Website is published.We created a webpage displaying the cover page of the b
        </div>
     </body>
 </html>
-![Screenshot (26)](https://user-images.githubusercontent.com/119288183/213932530-c46e9b37-3dd2-48ad-8e9e-194bcd89a6c4.png)
-
+```
 
 ## Output:
 ### Book Cover :
