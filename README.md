@@ -132,7 +132,7 @@ The Website is published.We created a webpage displaying the cover page of the b
        </div>
     </body>
 </html>
-```
+
 
 ## Output:
 ### Book Cover :
